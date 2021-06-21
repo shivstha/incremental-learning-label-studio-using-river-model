@@ -1,0 +1,937 @@
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+Traceback (most recent call last):
+  File "/usr/local/bin/rq", line 5, in <module>
+    from rq.cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/__init__.py", line 2, in <module>
+    from .cli import main
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 93, in <module>
+    @pass_cli_config
+  File "/usr/local/lib/python3.7/site-packages/rq/cli/cli.py", line 72, in pass_cli_config
+    func = option(func)
+  File "/usr/local/lib/python3.7/site-packages/click/decorators.py", line 247, in decorator
+    _param_memo(f, OptionClass(param_decls, **option_attrs))
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2482, in __init__
+    super().__init__(param_decls, type=type, multiple=multiple, **attrs)
+  File "/usr/local/lib/python3.7/site-packages/click/core.py", line 2110, in __init__
+    ) from None
+ValueError: 'default' must be a list when 'multiple' is true.
+15:20:09 Worker rq:worker:7cf12d9e3558474db7d74a20e32f27fa: started, version 1.7.0
+15:20:09 Subscribing to channel rq:pubsub:7cf12d9e3558474db7d74a20e32f27fa
+15:20:09 *** Listening on default...
+15:20:09 Cleaning registries for queue: default
+15:47:09 Cleaning registries for queue: default
+15:55:54 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (94b964cd-54a6-44cc-a2a2-f935d3715c63)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '1\xa0hour, 43\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+15:56:05 default: Job OK (94b964cd-54a6-44cc-a2a2-f935d3715c63)
+15:56:05 Result will never expire, clean up result key manually
+16:02:50 Cleaning registries for queue: default
+02:54:01 Cleaning registries for queue: default
+03:21:01 Cleaning registries for queue: default
+03:48:01 Cleaning registries for queue: default
+04:15:01 Cleaning registries for queue: default
+04:42:02 Cleaning registries for queue: default
+04:47:40 Worker rq:worker:c158bf41aefe418e8bb1233190830cf2: started, version 1.7.0
+04:47:40 Subscribing to channel rq:pubsub:c158bf41aefe418e8bb1233190830cf2
+04:47:40 *** Listening on default...
+04:49:21 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (8c81a92e-57cb-4b12-908c-6971be92026a)
+04:49:25 Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 975, in perform_job
+    rv = job.perform()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 696, in perform
+    self._result = self._execute()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 719, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 303, in train_script_wrapper
+    m = cls.fetch(project, label_config)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 217, in fetch
+    return cls.get_or_create(project, label_config, force_reload, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 204, in get_or_create
+    cls.create(project, label_config, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 191, in create
+    model=cls.model_class(label_config=label_config, train_output=train_output, **kwargs),
+  File "./model_1_river.py", line 34, in __init__
+    self.load_update_model = self.train_output['model_file']
+KeyError: 'model_file'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 975, in perform_job
+    rv = job.perform()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 696, in perform
+    self._result = self._execute()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 719, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 303, in train_script_wrapper
+    m = cls.fetch(project, label_config)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 217, in fetch
+    return cls.get_or_create(project, label_config, force_reload, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 204, in get_or_create
+    cls.create(project, label_config, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 191, in create
+    model=cls.model_class(label_config=label_config, train_output=train_output, **kwargs),
+  File "./model_1_river.py", line 34, in __init__
+    self.load_update_model = self.train_output['model_file']
+KeyError: 'model_file'
+04:49:25 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (3dca6273-7eb4-4148-b74d-c7b543e5cf52)
+04:49:29 Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 975, in perform_job
+    rv = job.perform()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 696, in perform
+    self._result = self._execute()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 719, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 303, in train_script_wrapper
+    m = cls.fetch(project, label_config)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 217, in fetch
+    return cls.get_or_create(project, label_config, force_reload, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 204, in get_or_create
+    cls.create(project, label_config, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 191, in create
+    model=cls.model_class(label_config=label_config, train_output=train_output, **kwargs),
+  File "./model_1_river.py", line 34, in __init__
+    self.load_update_model = self.train_output['model_file']
+KeyError: 'model_file'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 975, in perform_job
+    rv = job.perform()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 696, in perform
+    self._result = self._execute()
+  File "/usr/local/lib/python3.7/site-packages/rq/job.py", line 719, in _execute
+    return self.func(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 303, in train_script_wrapper
+    m = cls.fetch(project, label_config)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 217, in fetch
+    return cls.get_or_create(project, label_config, force_reload, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 204, in get_or_create
+    cls.create(project, label_config, train_output, version, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/label_studio_ml/model.py", line 191, in create
+    model=cls.model_class(label_config=label_config, train_output=train_output, **kwargs),
+  File "./model_1_river.py", line 34, in __init__
+    self.load_update_model = self.train_output['model_file']
+KeyError: 'model_file'
+04:56:34 Worker rq:worker:c158bf41aefe418e8bb1233190830cf2: found an unhandled exception, quitting...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 572, in work
+    result = self.dequeue_job_and_maintain_ttl(timeout)
+  File "/usr/local/lib/python3.7/site-packages/rq/worker.py", line 642, in dequeue_job_and_maintain_ttl
+    serializer=self.serializer)
+  File "/usr/local/lib/python3.7/site-packages/rq/queue.py", line 600, in dequeue_any
+    result = cls.lpop(queue_keys, timeout, connection=connection)
+  File "/usr/local/lib/python3.7/site-packages/rq/queue.py", line 572, in lpop
+    result = connection.blpop(queue_keys, timeout)
+  File "/usr/local/lib/python3.7/site-packages/redis/client.py", line 1900, in blpop
+    return self.execute_command('BLPOP', *keys)
+  File "/usr/local/lib/python3.7/site-packages/redis/client.py", line 901, in execute_command
+    return self.parse_response(conn, command_name, **options)
+  File "/usr/local/lib/python3.7/site-packages/redis/client.py", line 915, in parse_response
+    response = connection.read_response()
+  File "/usr/local/lib/python3.7/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/usr/local/lib/python3.7/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/usr/local/lib/python3.7/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/usr/local/lib/python3.7/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Error 111 connecting to redis:6379. Connection refused.
+04:57:24 Worker rq:worker:0e4f9f030f7f4f08a22358cb4251dc92: started, version 1.7.0
+04:57:24 Subscribing to channel rq:pubsub:0e4f9f030f7f4f08a22358cb4251dc92
+04:57:24 *** Listening on default...
+04:57:24 Cleaning registries for queue: default
+05:02:34 Worker rq:worker:7a4b491cd34b46e085a3e762155c16c2: started, version 1.7.0
+05:02:34 Subscribing to channel rq:pubsub:7a4b491cd34b46e085a3e762155c16c2
+05:02:34 *** Listening on default...
+05:10:45 Worker rq:worker:7fdd55341606494dab6653a8fa284faf: started, version 1.7.0
+05:10:45 Subscribing to channel rq:pubsub:7fdd55341606494dab6653a8fa284faf
+05:10:45 *** Listening on default...
+05:15:22 Worker rq:worker:32fd3d67dbde4ba49aa95d6495d10230: started, version 1.7.0
+05:15:22 Subscribing to channel rq:pubsub:32fd3d67dbde4ba49aa95d6495d10230
+05:15:22 *** Listening on default...
+05:15:22 Cleaning registries for queue: default
+05:17:15 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (c34c61d9-0270-446f-9b2c-925577a89ca4)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1418, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 24\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T13:52:54.699828Z', 'updated_at': '2021-06-20T13:52:54.700829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 4\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+05:17:25 default: Job OK (c34c61d9-0270-446f-9b2c-925577a89ca4)
+05:17:25 Result will never expire, clean up result key manually
+05:17:25 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (1dded554-c35a-4003-93b8-dc2667797bcc)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1418, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 24\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T13:52:54.699828Z', 'updated_at': '2021-06-20T13:52:54.700829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 4\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+05:17:30 default: Job OK (1dded554-c35a-4003-93b8-dc2667797bcc)
+05:17:30 Result will never expire, clean up result key manually
+05:18:39 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (59b78607-7bba-4cef-a17f-244077870cf9)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1418, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 25\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T13:52:54.699828Z', 'updated_at': '2021-06-20T13:52:54.700829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 5\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+05:18:46 default: Job OK (59b78607-7bba-4cef-a17f-244077870cf9)
+05:18:46 Result will never expire, clean up result key manually
+05:25:47 Worker rq:worker:53c641818629415086dd23c5d4e46456: started, version 1.7.0
+05:25:47 Subscribing to channel rq:pubsub:53c641818629415086dd23c5d4e46456
+05:25:47 *** Listening on default...
+05:26:57 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (f36c4b2d-b781-4b0c-bbdf-0ac988bc0a4c)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '5\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 14\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+05:27:04 default: Job OK (f36c4b2d-b781-4b0c-bbdf-0ac988bc0a4c)
+05:27:04 Result will never expire, clean up result key manually
+05:27:05 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (e5196883-cc77-4481-a70d-c2f92d19c171)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '5\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 14\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+05:27:10 default: Job OK (e5196883-cc77-4481-a70d-c2f92d19c171)
+05:27:10 Result will never expire, clean up result key manually
+05:27:31 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (623be63b-0e56-48e8-a81c-118ef486f542)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '6\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 14\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:27:30.787318Z', 'lead_time': 3.563, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '10\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-18T06:58:19.895697Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.08816790075980695, 'Negative': 0.9118320992401875}
+05:27:37 default: Job OK (623be63b-0e56-48e8-a81c-118ef486f542)
+05:27:37 Result will never expire, clean up result key manually
+05:27:39 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (61dff5e2-b07e-4113-ad87-22ccb8659de6)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '6\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 14\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:27:38.706000Z', 'lead_time': 368.794, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '10\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:27:38.229890Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.08816790075980695, 'Negative': 0.9118320992401875}
+05:27:45 default: Job OK (61dff5e2-b07e-4113-ad87-22ccb8659de6)
+05:27:45 Result will never expire, clean up result key manually
+05:28:02 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (c15d0c1b-850b-4a1e-b866-ba1cc2c4c853)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '1\xa0day, 23\xa0hours', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '6\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 15\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:27:38.706000Z', 'lead_time': 368.794, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '11\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:27:38.229890Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.08816790075980695, 'Negative': 0.9118320992401875}
+05:28:10 default: Job OK (c15d0c1b-850b-4a1e-b866-ba1cc2c4c853)
+05:28:10 Result will never expire, clean up result key manually
+05:37:37 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (33314181-ed0c-4965-937d-0048150a12d2)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '16\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 25\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:37:44.506043Z', 'lead_time': 206.694, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '20\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:37:43.559052Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.8843026400420365, 'Negative': 0.11569735995796201}
+05:37:51 default: Job OK (33314181-ed0c-4965-937d-0048150a12d2)
+05:37:51 Result will never expire, clean up result key manually
+05:37:51 Cleaning registries for queue: default
+05:37:51 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (2614b3d9-dda7-41da-9b5b-74b9b8754309)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '16\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 25\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:37:44.506043Z', 'lead_time': 206.694, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '20\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:37:43.559052Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.8843026400420365, 'Negative': 0.11569735995796201}
+05:38:03 default: Job OK (2614b3d9-dda7-41da-9b5b-74b9b8754309)
+05:38:03 Result will never expire, clean up result key manually
+05:38:03 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (c84bd8bc-b44c-44f8-8e6f-18ac3363f352)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '16\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 25\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:37:44.506043Z', 'lead_time': 206.694, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '21\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:37:43.559052Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.8843026400420365, 'Negative': 0.11569735995796201}
+05:38:14 default: Job OK (c84bd8bc-b44c-44f8-8e6f-18ac3363f352)
+05:38:14 Result will never expire, clean up result key manually
+05:58:12 default: train_script_wrapper('7.1623773876', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (5d2dd99b-6466-42b6-a507-c397b2d1fb18)
+incremental sssss??
+{'id': 7875, 'annotations': [{'id': 36, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'EqcL622691', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T16:58:30.423507Z', 'updated_at': '2021-06-18T16:58:30.423507Z', 'lead_time': 2.027, 'prediction': {}, 'result_count': 0, 'task': 7875}], 'predictions': [{'id': 1581, 'model_version': '1624253892', 'created_ago': '3\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 72.61, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:54:19.428179Z', 'updated_at': '2021-06-21T05:54:19.428179Z', 'task': 7875}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.858693Z', 'updated_at': '2021-06-18T06:58:19.858693Z', 'project': 7}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.9046499183601937, 'Negative': 0.09535008163980904}
+{'id': 7881, 'annotations': [{'id': 41, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'RAVOdRZa2k', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:26:57.118155Z', 'updated_at': '2021-06-21T05:27:01.517221Z', 'lead_time': 331.814, 'prediction': {}, 'result_count': 0, 'task': 7881}], 'predictions': [{'id': 1385, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.78, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:41.911472Z', 'updated_at': '2021-06-19T05:28:41.911472Z', 'task': 7881}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:27:01.137613Z', 'project': 7}
+Text -> user: AAP Divi announce came on third Monday of March 2012, the 19th. Will it come on March 18th this year?   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5172573780446059, 'Negative': 0.4827426219553897}
+after learning probability --> {'Positive': 0.01986870022393021, 'Negative': 0.9801312997760786}
+{'id': 7888, 'annotations': [{'id': 40, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'jHKLMVUL_o', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:17:15.346200Z', 'updated_at': '2021-06-21T05:17:19.751852Z', 'lead_time': 351.622, 'prediction': {}, 'result_count': 0, 'task': 7888}], 'predictions': [{'id': 1392, 'model_version': '1624078588', 'created_ago': '2\xa0days', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.67, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-19T05:28:43.898651Z', 'updated_at': '2021-06-19T05:28:43.898651Z', 'task': 7888}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'AIG #MApattern  ', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-21T05:17:19.264606Z', 'project': 7}
+Text -> AIG #MApattern   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5168398802852496, 'Negative': 0.4831601197147507}
+after learning probability --> {'Positive': 0.3142453852755939, 'Negative': 0.6857546147244049}
+{'id': 7891, 'annotations': [{'id': 37, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'zjF-YpD_Jj', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-19T04:21:44.274768Z', 'updated_at': '2021-06-19T04:21:44.274768Z', 'lead_time': 2.299, 'prediction': {}, 'result_count': 0, 'task': 7891}], 'predictions': [{'id': 1580, 'model_version': '1624253892', 'created_ago': '3\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 100.0, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:54:19.301760Z', 'updated_at': '2021-06-21T05:54:19.301760Z', 'task': 7891}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.859693Z', 'updated_at': '2021-06-18T06:58:19.859693Z', 'project': 7}
+Text -> MNX  Bullish pattern, confirming: (break out mode) Also like here:  NAN SCA GDOT VMW PAY   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.9999713026731054, 'Negative': 2.869732689690522e-05}
+after learning probability --> {'Positive': 0.9999948307367699, 'Negative': 5.169263233215943e-06}
+{'id': 7926, 'annotations': [{'id': 39, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': '1d-edvIHUO', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T04:49:21.087653Z', 'updated_at': '2021-06-21T04:49:24.755515Z', 'lead_time': 82.105, 'prediction': {}, 'result_count': 0, 'task': 7926}], 'predictions': [{'id': 1579, 'model_version': '1624252724', 'created_ago': '36\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 50.45, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:21:17.952829Z', 'updated_at': '2021-06-21T05:21:17.952829Z', 'task': 7926}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'ed Monthly Triangle on CSN,.....Scaling P  ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.862690Z', 'updated_at': '2021-06-21T04:49:24.388893Z', 'project': 7}
+Text -> ed Monthly Triangle on CSN,.....Scaling P   
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.5031959969577883, 'Negative': 0.4968040030422103}
+after learning probability --> {'Positive': 0.42150824568406214, 'Negative': 0.5784917543159346}
+{'id': 8016, 'annotations': [{'id': 38, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'LGstreUXf5', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-20T14:13:22.008121Z', 'updated_at': '2021-06-20T14:13:28.710563Z', 'lead_time': 1314.812, 'prediction': {}, 'result_count': 0, 'task': 8016}], 'predictions': [{'id': 1490, 'model_version': '1624197125', 'created_ago': '15\xa0hours, 45\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Negative']}}], 'score': 74.27, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-20T14:12:44.808217Z', 'updated_at': '2021-06-20T14:12:44.808217Z', 'task': 8016}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': "VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan  ", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.887697Z', 'updated_at': '2021-06-20T14:13:27.881915Z', 'project': 7}
+Text -> VVS Vivus CEO eportedly Says Acquisition is 'Inevitable' talking to Deal eporter at the J.P. Morgan   
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.2580121121147585, 'Negative': 0.7419878878852385}
+after learning probability --> {'Positive': 0.9694222061814818, 'Negative': 0.030577793818524445}
+{'id': 8038, 'annotations': [{'id': 35, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'KRbPVbL93P', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-18T08:02:00.601237Z', 'updated_at': '2021-06-18T08:02:00.601237Z', 'lead_time': 3.515, 'prediction': {}, 'result_count': 0, 'task': 8038}], 'predictions': [], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.   ', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.890694Z', 'updated_at': '2021-06-18T06:58:19.891697Z', 'project': 7}
+Text -> Added long FTI  53. Stock is strong in weak tap, has  strong short-term news with new contracts.    
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9842154400519292, 'Negative': 0.015784559948071097}
+after learning probability --> {'Positive': 0.8448840270891704, 'Negative': 0.15511597291081763}
+{'id': 8071, 'annotations': [{'id': 42, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Positive']}, 'id': 'nEuJoVpP3d', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T05:27:30.787318Z', 'updated_at': '2021-06-21T05:58:12.484295Z', 'lead_time': 1041.775, 'prediction': {}, 'result_count': 0, 'task': 8071}], 'predictions': [{'id': 1569, 'model_version': '1624204565', 'created_ago': '41\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 51.95, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T05:16:50.673229Z', 'updated_at': '2021-06-21T05:16:50.673229Z', 'task': 8071}], 'file_upload': 'stock_test_data_cobefoX.csv', 'data': {'Text': 'Indian banking system safe and sound: Shaktikanta Das', 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-18T06:58:19.895697Z', 'updated_at': '2021-06-21T05:58:11.978335Z', 'project': 7}
+Text -> Indian banking system safe and sound: Shaktikanta Das 
+ Sentimental -> Positive
+before learning probability --> {'Positive': 0.5205287123163195, 'Negative': 0.47947128768368524}
+after learning probability --> {'Positive': 0.8843026400420365, 'Negative': 0.11569735995796201}
+05:58:19 default: Job OK (5d2dd99b-6466-42b6-a507-c397b2d1fb18)
+05:58:19 Result will never expire, clean up result key manually
+06:05:04 Cleaning registries for queue: default
