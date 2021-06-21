@@ -935,3 +935,28 @@ after learning probability --> {'Positive': 0.8843026400420365, 'Negative': 0.11
 05:58:19 default: Job OK (5d2dd99b-6466-42b6-a507-c397b2d1fb18)
 05:58:19 Result will never expire, clean up result key manually
 06:05:04 Cleaning registries for queue: default
+07:54:10 Worker rq:worker:f5a1f91fa88240abb2e5c84a86d93f7a: started, version 1.7.0
+07:54:10 Subscribing to channel rq:pubsub:f5a1f91fa88240abb2e5c84a86d93f7a
+07:54:10 *** Listening on default...
+07:54:10 Cleaning registries for queue: default
+08:21:10 Cleaning registries for queue: default
+08:48:11 Cleaning registries for queue: default
+09:06:42 default: train_script_wrapper('8.1624261992', '<View>\n  <Text name="text" value="$Text"/>\n  <View style="box-shadow: 2p..., {'login': None, 'password': None}, {'model_class': <class 'model_1_river.StockDataClassifier'>, 'model_dir': '...) (c9528b9d-f52f-48cb-9cf2-4cf11677ce9b)
+incremental sssss??
+{'id': 9613, 'annotations': [{'id': 43, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'P8fkJ4nNbo', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T09:03:15.771548Z', 'updated_at': '2021-06-21T09:03:15.771548Z', 'lead_time': 3.997, 'prediction': {}, 'result_count': 0, 'task': 9613}], 'predictions': [{'id': 1605, 'model_version': '1624263345', 'created_ago': '10\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 72.61, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T08:55:53.748967Z', 'updated_at': '2021-06-21T08:55:53.748967Z', 'task': 9613}], 'file_upload': 'stock_test_data_ttnJFip.csv', 'data': {'Text': "MCP take-over chatter... (I know don't laugh...)", 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-21T07:59:23.068248Z', 'updated_at': '2021-06-21T07:59:23.068248Z', 'project': 8}
+Text -> MCP take-over chatter... (I know don't laugh...) 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.7261473464112396, 'Negative': 0.273852653588762}
+after learning probability --> {'Positive': 0.33789513816286615, 'Negative': 0.6621048618371369}
+{'id': 9614, 'annotations': [{'id': 44, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'FlsP3Ufx1S', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T09:03:21.173251Z', 'updated_at': '2021-06-21T09:03:21.173251Z', 'lead_time': 3.431, 'prediction': {}, 'result_count': 0, 'task': 9614}], 'predictions': [{'id': 1606, 'model_version': '1624263345', 'created_ago': '10\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 99.81, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T08:55:53.857948Z', 'updated_at': '2021-06-21T08:55:53.857948Z', 'task': 9614}], 'file_upload': 'stock_test_data_ttnJFip.csv', 'data': {'Text': 'AMZN 1,200 lot bid in the Feb weekly 255P. 27 delta, could push market down or create resistance in the stock. Will probably bid up IV', 'Sentiment': 'Negative'}, 'meta': {}, 'created_at': '2021-06-21T07:59:23.068248Z', 'updated_at': '2021-06-21T07:59:23.068248Z', 'project': 8}
+Text -> AMZN 1,200 lot bid in the Feb weekly 255P. 27 delta, could push market down or create resistance in the stock. Will probably bid up IV 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.998151285377602, 'Negative': 0.0018487146224000983}
+after learning probability --> {'Positive': 0.9067128616231526, 'Negative': 0.0932871383768559}
+{'id': 9615, 'annotations': [{'id': 45, 'completed_by': {'id': 1, 'email': 'shiv.shres25@gmail.com', 'first_name': '', 'last_name': ''}, 'result': [{'value': {'choices': ['Negative']}, 'id': 'tufKJszXN0', 'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices'}], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2021-06-21T09:03:27.309476Z', 'updated_at': '2021-06-21T09:03:27.309476Z', 'lead_time': 4.819, 'prediction': {}, 'result_count': 0, 'task': 9615}], 'predictions': [{'id': 1607, 'model_version': '1624263345', 'created_ago': '10\xa0minutes', 'result': [{'from_name': 'sentiment', 'to_name': 'text', 'type': 'choices', 'value': {'choices': ['Positive']}}], 'score': 99.48, 'cluster': None, 'neighbors': None, 'mislabeling': 0.0, 'created_at': '2021-06-21T08:55:54.051807Z', 'updated_at': '2021-06-21T08:55:54.051807Z', 'task': 9615}], 'file_upload': 'stock_test_data_ttnJFip.csv', 'data': {'Text': "KO made with sugar is sold at local COST. Consumers prefer that in CA.  user-Cola should make shift nationwide. I'm bullish SB_F SPY", 'Sentiment': 'Positive'}, 'meta': {}, 'created_at': '2021-06-21T07:59:23.068248Z', 'updated_at': '2021-06-21T07:59:23.068248Z', 'project': 8}
+Text -> KO made with sugar is sold at local COST. Consumers prefer that in CA.  user-Cola should make shift nationwide. I'm bullish SB_F SPY 
+ Sentimental -> Negative
+before learning probability --> {'Positive': 0.9948456507165473, 'Negative': 0.0051543492834667266}
+after learning probability --> {'Positive': 0.24279501382513707, 'Negative': 0.7572049861748704}
+09:06:55 default: Job OK (c9528b9d-f52f-48cb-9cf2-4cf11677ce9b)
+09:06:55 Result will never expire, clean up result key manually

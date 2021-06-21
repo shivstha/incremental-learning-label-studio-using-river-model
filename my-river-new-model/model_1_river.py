@@ -1,59 +1,27 @@
-import pickle
 import os
-import numpy as np
+import pickle
 
-from river import compose
-from river import linear_model
-from river import metrics
-from river import preprocessing
-from river import feature_extraction
-from river import naive_bayes
 import joblib
-
+import numpy as np
 from label_studio_ml.model import LabelStudioMLBase
+from river import (compose, feature_extraction, linear_model, metrics,
+                   naive_bayes, preprocessing)
 
 
+# Date          :: 2021/06/21
+# Desc          :: Class for inheriting LabelStudioMLBase backend for predicting and training tasks
 class StockDataClassifier(LabelStudioMLBase):
 
     def __init__(self, **kwargs):
-        # don't forget to initialize base class...
         super(StockDataClassifier, self).__init__(**kwargs)
         self.from_name, self.info = list(self.parsed_label_config.items())[0]
         self.to_name = self.info['to_name'][0]
         self.value = self.info['inputs'][0]['value']
 
         self.labels = self.info['labels']
-
-        # self.model = compose.Pipeline(('tokenize', feature_extraction.BagOfWords(lowercase=False)),
-        # #                               ('nb', naive_bayes.MultinomialNB(alpha=1)))
-        # if not self.train_output:
-        #     self.load_update_model = joblib.load("./model_trained.bin")
-        #
-        # else:
-        #     pass
-        # self.model_file = self.train_output['model_file']
-        # self.load_update_model = joblib.load(self.model_file)
         self.load_update_model = joblib.load("./model_trained.bin")
 
     def predict(self, tasks, **kwargs):
-        # collect input texts
-        # input_texts = []
-        # for task in tasks:
-        #     input_text = task['data'].get(self.value) or task['data'].get('$Text')
-        #     input_texts.append(input_text)
-        # print(len(input_texts))
-        # print('************************************', end='\n\n')
-        # print(input_texts)
-        # print('************************************', end='\n\n')
-        # print('self.from_name -->', self.from_name)
-        # print('************************************', end='\n\n')
-        # print('self.info -->', self.info)
-        # print('************************************', end='\n\n')
-        # print('self.to_name -->', self.to_name)
-        # print('************************************', end='\n\n')
-        # print('self.value -->', self.value)
-        # print('************************************', end='\n\n')
-
         predictions = []
 
         for task in tasks:
@@ -78,13 +46,8 @@ class StockDataClassifier(LabelStudioMLBase):
 
         return predictions
 
+    
     def fit(self, completions, workdir=None, **kwargs):
-        print('incremental sssss??')
-        # input_texts = []
-        # output_labels, output_labels_idx = [], []
-
-        # label2idx = {l: i for i, l in enumerate(self.labels)}
-
         for completion in completions:
             # get input text from task data
             print(completion)
@@ -92,7 +55,6 @@ class StockDataClassifier(LabelStudioMLBase):
                 continue
 
             input_text = completion['data'].get(self.value) or completion['data'].get('$Text')
-            # input_texts.append(input_text)
 
             # get an annotation
             output_label = completion['annotations'][0]['result'][0]['value']['choices'][0]
@@ -101,29 +63,9 @@ class StockDataClassifier(LabelStudioMLBase):
             self.load_update_model.learn_one(input_text, output_label)
             print(f'after learning probability --> {self.load_update_model.predict_proba_one(input_text)}')
 
-            # output_labels.append(output_label)
-            # output_label_idx = label2idx[output_label]
-            # output_labels_idx.append(output_label_idx)
-
         model_file = os.path.join(workdir, 'model_trained_human.bin')
 
         joblib.dump(self.load_update_model, model_file)
-
-        # new_labels = set(output_labels)
-        # if len(new_labels) != len(self.labels):
-        #     self.labels = list(sorted(new_labels))
-        #     print('Label set has been changed:' + str(self.labels))
-        #     label2idx = {l: i for i, l in enumerate(self.labels)}
-        #     output_labels_idx = [label2idx[label] for label in output_labels]
-
-        # train the model
-        # self.reset_model()
-        # self.model.fit(input_texts, output_labels_idx)
-
-        # save output resources
-        # model_file = os.path.join(workdir, 'model.pkl')
-        # with open(model_file, mode='wb') as fout:
-        #     pickle.dump(self.model, fout)
 
         train_output = {
             'model_file': model_file
