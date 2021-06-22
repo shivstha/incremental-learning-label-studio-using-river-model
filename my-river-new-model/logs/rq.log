@@ -960,3 +960,18 @@ before learning probability --> {'Positive': 0.9948456507165473, 'Negative': 0.0
 after learning probability --> {'Positive': 0.24279501382513707, 'Negative': 0.7572049861748704}
 09:06:55 default: Job OK (c9528b9d-f52f-48cb-9cf2-4cf11677ce9b)
 09:06:55 Result will never expire, clean up result key manually
+09:13:41 Cleaning registries for queue: default
+09:40:41 Cleaning registries for queue: default
+10:07:41 Cleaning registries for queue: default
+10:34:41 Cleaning registries for queue: default
+11:01:42 Cleaning registries for queue: default
+11:28:42 Cleaning registries for queue: default
+11:55:42 Cleaning registries for queue: default
+12:22:42 Cleaning registries for queue: default
+12:49:43 Cleaning registries for queue: default
+13:54:23 Cleaning registries for queue: default
+14:21:23 Cleaning registries for queue: default
+14:48:23 Cleaning registries for queue: default
+15:15:23 Cleaning registries for queue: default
+15:42:24 Cleaning registries for queue: default
+16:09:24 Cleaning registries for queue: default

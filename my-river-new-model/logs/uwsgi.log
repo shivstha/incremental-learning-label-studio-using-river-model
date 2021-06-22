@@ -1008,3 +1008,67 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 [pid: 21|app: 0|req: 3/3] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:08:39 2021] POST /setup => generated 1199 bytes in 60 msecs (HTTP/1.1 500) 2 headers in 92 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 4/4] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:42 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 5/5] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:42 2021] POST /setup => generated 31 bytes in 3324 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 6/6] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:45 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 7/7] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:45 2021] POST /setup => generated 31 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 8/8] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:46 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 9/9] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:46 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 10/10] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:57 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 11/11] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:57 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 12/12] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:58 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 13/13] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:58 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 14/14] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:58 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 15/15] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:58 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 16/16] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:15:58 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 17/17] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:15:59 2021] POST /setup => generated 31 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 18/18] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 08:55:49 2021] GET /health => generated 43 bytes in 87 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 19/19] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 08:55:49 2021] POST /setup => generated 31 bytes in 23 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+{'Positive': 0.6752296464765107, 'Negative': 0.32477035352349376} --> 67.52
+{'Positive': 0.7616991292147507, 'Negative': 0.23830087078524856} --> 76.17
+{'Positive': 0.9968310687281988, 'Negative': 0.0031689312718003932} --> 99.68
+{'Positive': 0.9763097314444292, 'Negative': 0.02369026855557547} --> 97.63
+{'Positive': 0.14545133561954218, 'Negative': 0.8545486643804567} --> 85.45
+{'Positive': 0.9998841450192567, 'Negative': 0.0001158549807502482} --> 99.99
+{'Positive': 0.12244051649856855, 'Negative': 0.877559483501421} --> 87.76
+{'Positive': 0.8028186524489195, 'Negative': 0.19718134755107686} --> 80.28
+{'Positive': 0.4610102944023398, 'Negative': 0.5389897055976723} --> 53.9
+{'Positive': 0.9897697790088231, 'Negative': 0.010230220991179586} --> 98.98
+{'Positive': 0.9332169032570267, 'Negative': 0.06678309674295953} --> 93.32
+{'Positive': 0.44578199396509016, 'Negative': 0.5542180060349108} --> 55.42
+{'Positive': 0.3170340781015439, 'Negative': 0.6829659218984491} --> 68.3
+{'Positive': 0.9981663742880775, 'Negative': 0.0018336257119240939} --> 99.82
+{'Positive': 0.7215873064462798, 'Negative': 0.2784126935537176} --> 72.16
+{'Positive': 0.9994170235083727, 'Negative': 0.0005829764916315015} --> 99.94
+{'Positive': 0.07064251388314866, 'Negative': 0.9293574861168564} --> 92.94
+{'Positive': 0.5166574769558995, 'Negative': 0.48334252304409947} --> 51.67
+{'Positive': 0.9999769883658822, 'Negative': 2.3011634106386164e-05} --> 100.0
+{'Positive': 0.9888597116293175, 'Negative': 0.011140288370677995} --> 98.89
+{'Positive': 0.9999710875790722, 'Negative': 2.89124209289699e-05} --> 100.0
+{'Positive': 0.9984164944116011, 'Negative': 0.0015835055883849736} --> 99.84
+{'Positive': 0.9723883232799474, 'Negative': 0.027611676720051152} --> 97.24
+{'Positive': 0.7261473464112396, 'Negative': 0.273852653588762} --> 72.61
+{'Positive': 0.9981425642518019, 'Negative': 0.0018574357481921388} --> 99.81
+{'Positive': 0.9947790619966143, 'Negative': 0.0052209380033903996} --> 99.48
+{'Positive': 0.39448310628274486, 'Negative': 0.6055168937172419} --> 60.55
+{'Positive': 0.004409246436875786, 'Negative': 0.99559075356313} --> 99.56
+{'Positive': 0.9999210378881662, 'Negative': 7.896211182786664e-05} --> 99.99
+{'Positive': 0.5178155218883567, 'Negative': 0.4821844781116545} --> 51.78
+[pid: 21|app: 0|req: 20/20] 172.22.0.1 () {32 vars in 401 bytes} [Mon Jun 21 08:55:49 2021] POST /predict => generated 3641 bytes in 129 msecs (HTTP/1.1 200) 2 headers in 73 bytes (2 switches on core 0)
+[pid: 21|app: 0|req: 21/21] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:36 2021] GET /health => generated 43 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 22/22] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:36 2021] POST /setup => generated 31 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 23/23] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:36 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 24/24] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:36 2021] POST /setup => generated 31 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 25/25] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:36 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 26/26] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:36 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 27/27] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:37 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 28/28] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:37 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 29/29] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:37 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 30/30] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:37 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 31/31] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:39 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 32/32] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:39 2021] POST /setup => generated 31 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 33/33] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:39 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 34/34] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:39 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 35/35] 172.22.0.1 () {32 vars in 396 bytes} [Mon Jun 21 09:06:42 2021] POST /train => generated 47 bytes in 63 msecs (HTTP/1.1 201) 2 headers in 76 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 36/36] 172.22.0.1 () {28 vars in 343 bytes} [Mon Jun 21 09:06:42 2021] GET /health => generated 43 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 21|app: 0|req: 37/37] 172.22.0.1 () {32 vars in 395 bytes} [Mon Jun 21 09:06:42 2021] POST /setup => generated 31 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
